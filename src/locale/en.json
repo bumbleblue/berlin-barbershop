@@ -1,0 +1,47 @@
+{
+	"locale": {
+		"lang_de": "DE",
+		"lang_en": "EN"
+	},
+	"bash": {
+		"title": "Berlin Barbershop Bash 2027",
+		"menu": "BBB 2027",
+		"spiel": [
+			"After the success of the first Berlin Barbershop Bash, we will be holding a second in 2027!",
+			"We will test out a 48-hour format in 2027, and look forward to seeing how the longer deadline shapes the event.",
+			"We appreciate your patience as we work to plan this event.",
+			"If you're interested in joining us, please fill out our interest form and sign up for our newsletter below!"
+		],
+		"interest_form": "Interest Form",
+		"newsletter": "Newsletter"
+	},
+	"chorus": {
+		"title": "Choruses",
+		"menu": "Choruses",
+		"capitol": {
+			"title": "Capitol Chords",
+			"spiel": ["Lorem Ipsum"]
+		},
+		"wibs": {
+			"title": "Women in Black",
+			"spiel": ["Lorem Ipsum"]
+		}
+	},
+	"event": {
+		"title": "Upcoming Events",
+		"menu": "Events",
+		"bbb2027": { "title": "Berlin Barbershop Bash 2027" }
+	},
+	"hair": {
+		"title": "Looking for a Barber Shop?",
+		"spiel": [
+			"Apologies, you've stumbled on the wrong kind of barbershop — we sing, we don't cut hair.",
+			"Come hear us sometime!"
+		]
+	},
+	"home": {
+		"title": "Berlin Barbershop",
+		"menu": "Home",
+		"spiel": ["Welcome, dear barbershopper, to Berlin!"]
+	}
+}
